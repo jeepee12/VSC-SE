@@ -10,8 +10,8 @@ syntax checking work.
   * install c# extension in VSC (OmniSharp)
   * install NuGet Package manager VSC Extension
 * install .net cli tools / SDK (needed?)
-* install net framwork devpack 4.6.1
-  * https://www.microsoft.com/en-us/download/confirmation.aspx?id=49978
+* install net framwork devpack 4.8
+  * https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-developer-pack-offline-installer
 
 
 * Then clone this directory structure.
